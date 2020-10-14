@@ -1,0 +1,80 @@
+.bgcolor{
+    background-color: #56836F;
+}
+.mtavari{
+    float: left;
+    font-size: 48px;
+    color: #FFFFFF;
+    padding-left: 178px;
+    
+}
+.siaxleebi{
+    float: left;
+    font-size: 48px;
+    padding-left: 54px;
+
+}
+.informacia{
+    float: left;
+    font-size: 48px;
+    padding-left: 54px;
+
+}
+.kontaqti{
+    float: left;
+    font-size: 48px;
+    padding-left: 54px;
+    
+
+}
+.logo{
+    float: left;
+    padding-left: 65px;
+    
+
+}
+.nav1{
+    padding-top: 49px;
+    
+}
+.nav-a{
+    color: #FFFFFF;
+}
+.clear {
+	clear: both;
+}
+/*section*/
+.box1{
+    width: 617px;
+	float: left;
+	background-color: #FCEE21;
+	margin: 137px 18px 120px 112px;
+}
+.box2{
+    width: 523px;
+    float: left;
+    background-color:#FCEE21 ;
+    margin-top: 137px;
+}
+.img1 {
+	width: 151px;
+	float: right;
+	margin: 25px;
+}
+.img2 {
+	width: 151px;
+	float: left;
+	margin: 25px;
+}
+.box1 p{
+    
+    padding: 7px;
+    font-size: 14px;
+    
+}
+.box2 p{
+    
+    padding: 7px;
+    font-size: 14px;
+    
+}
